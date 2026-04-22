@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Apr 22, 2026, 02_44_59 PM" src="https://github.com/user-attachments/assets/76efc2c8-4db1-4d24-9250-a208991bb5f0" />
+<img width="768" height="512" alt="ChatGPT Image Apr 22, 2026, 02_44_59 PM" src="https://github.com/user-attachments/assets/76efc2c8-4db1-4d24-9250-a208991bb5f0" />
 
 # BioScale
 
